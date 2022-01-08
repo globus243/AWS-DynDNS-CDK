@@ -1,0 +1,9 @@
+{
+	"sub.yourDomaineHere.com.": {
+		"aws_region": "us-west-2",
+		"route_53_zone_id": "XXXXXXXXXXXXYYYYYY",
+		"route_53_record_ttl": 60,
+		"route_53_record_type": "A",
+		"shared_secret": "mysupersecretsharedkey"
+	}
+}
