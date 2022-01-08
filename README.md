@@ -4,6 +4,8 @@ Build a DynDNS in the AWS to update your Route53 entries based on web requests a
 
 A full guide can be found on https://blog.timhartmann.de/2022/01/07/cdk-dyndns/
 
+based on https://github.com/awslabs/route53-dynamic-dns-with-lambda
+
 ## How To
 
 ### Install Prerequisites
